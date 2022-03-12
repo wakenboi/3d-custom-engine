@@ -1,0 +1,120 @@
+﻿  array.c
+  camera.c
+  clipping.c
+C:\Users\Martynas\source\repos\MyProject\MyProject\clipping.c(30,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\clipping.c(31,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\clipping.c(32,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\clipping.c(33,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  display.c
+C:\Users\Martynas\source\repos\MyProject\MyProject\display.c(139,36): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\display.c(139,54): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\display.c(135,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\display.c(136,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  light.c
+C:\Users\Martynas\source\repos\MyProject\MyProject\light.c(18,1): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\light.c(19,1): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\light.c(20,1): warning C4244: 'initializing': conversion from 'float' to 'uint32_t', possible loss of data
+  Main.c
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(63,90): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(63,118): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(64,91): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(64,119): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(65,93): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(65,121): warning C4305: 'function': truncation from 'double' to 'float'
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(52,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(53,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(117,54): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(121,54): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(125,52): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(129,52): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(133,97): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(138,97): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(280,68): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(281,69): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(284,68): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(285,69): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(331,65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(369,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(369,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(370,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(370,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(371,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(371,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(379,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(379,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(380,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(380,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(381,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(381,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(389,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(389,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(390,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(390,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(391,37): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(391,59): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(398,47): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(398,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(399,47): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(399,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(400,47): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(400,73): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\Main.c(419,16): warning C4026: function declared with formal parameter list
+  matrix.c
+C:\Users\Martynas\source\repos\MyProject\MyProject\matrix.c(43,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\matrix.c(44,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\matrix.c(58,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\matrix.c(59,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\matrix.c(73,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\matrix.c(74,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\matrix.c(112,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\matrix.c(113,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  mesh.c
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(15,22): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[1024]'
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(15,18): warning C4024: 'fgets': different types for formal and actual parameter 1
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(17,25): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[1024]'
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(17,21): warning C4024: 'strncmp': different types for formal and actual parameter 1
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(19,24): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char *[1024]'
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(19,20): warning C4024: 'sscanf': different types for formal and actual parameter 1
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(23,25): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[1024]'
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(23,21): warning C4024: 'strncmp': different types for formal and actual parameter 1
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(25,24): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char *[1024]'
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(25,20): warning C4024: 'sscanf': different types for formal and actual parameter 1
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(29,25): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[1024]'
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(29,21): warning C4024: 'strncmp': different types for formal and actual parameter 1
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(34,21): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char *[1024]'
+C:\Users\Martynas\source\repos\MyProject\MyProject\mesh.c(34,17): warning C4024: 'sscanf': different types for formal and actual parameter 1
+  swap.c
+  texture.c
+  triangle.c
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(101,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(84,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(160,64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(122,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(226,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(227,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(228,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(231,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(232,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(233,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(249,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(250,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(274,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(275,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(339,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(340,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(341,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(354,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(355,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(379,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\triangle.c(380,1): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  upng.c
+  vector.c
+C:\Users\Martynas\source\repos\MyProject\MyProject\vector.c(13,39): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\vector.c(53,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\vector.c(72,51): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\vector.c(125,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\vector.c(131,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\vector.c(140,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Martynas\source\repos\MyProject\MyProject\vector.c(149,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  MyProject.vcxproj -> C:\Users\Martynas\source\repos\MyProject\Debug\MyProject.exe
